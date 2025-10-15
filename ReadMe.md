@@ -6,7 +6,8 @@ Autistic Spectrum Disorder (ASD) refers to a group of developmental disorders th
 
 The information of 3 input datasetsis are listed in Table 1.
 
-![Dataset Instances](Images\dataset_instances.png)
+![Dataset Instances](Interactive-ASD-analysis-dashboard-/Images
+/dataset_instances.png)
 Each different type of data contains 20 questions, and the information is listed in Table 2.
 
 ![Dataset Attribute](Images\dataset_attribute.png)
