@@ -10,7 +10,7 @@ The information of 3 input datasetsis are listed in Table 1.
 
 Each different type of data contains 20 questions, and the information is listed in Table 2.
 
-![Dataset Attribute](images/dataset_attribute.png)
+![Dataset Attribute]([images/dataset_attribute.pn](https://github.com/GaaferGouda/Interactive-ASD-analysis-dashboard-/blob/main/Images/dataset_attribute.png)
 
 ## Learning Curve Result
 
