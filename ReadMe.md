@@ -16,11 +16,11 @@ Each different type of data contains 20 questions, and the information is listed
 
 We use different models to compare the performance, including Logistic Regression, Support Vector Machines (SVM), Naive Bayes, k-Nearest Neighbours (KNN), Artificial Neural Network (ANN), Convolutional Neural Network (CNN) over 3 datasets: Adult, Children, and Adolescent. 
 
-![Adult Learning Curve](Images\adult_learning_curve.png)
+![Adult Learning Curve](Images/adult_learning_curve.png)
 
-![Children Learning Curve](Images\children_learning_curve.png)
+![Children Learning Curve](Images/children_learning_curve.png)
 
-![Adolescent Learning Curve](Images\adolescent_learning_curve.png)
+![Adolescent Learning Curve](Images/adolescent_learning_curve.png)
 
 ## Requirements
 
